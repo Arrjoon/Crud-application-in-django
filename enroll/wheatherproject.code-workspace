@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../wheatherproject"
+		},
+		{
+			"path": "../../EmailSender"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Design"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Design"
+	}
+}
